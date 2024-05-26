@@ -5,7 +5,7 @@ This is the official repository of the paper titled **"[BnPC: A Gold Standard Co
 ## Brief of the repository 
 The repository is divided into three directories.
 - [**BnPC Code**](https://github.com/Mufassir-Chowdhury/BnPC/tree/main/BnPC%20Code): It contains the all supplementary codes that are used in this research.
-- [**BnPC Dataset**](https://github.com/Mufassir-Chowdhury/BnPC/tree/main/BnPC%20Dataset): This directory contains the BnPC Corpus divided into test, train, validation sets.
+- [**BnPC Dataset**](https://github.com/Mufassir-Chowdhury/BnPC/tree/main/BnPC%20Dataset): This directory contains the BnPC Corpus, divided into test, train, validation sets.
 - [**Cross Validation Datasets**](https://github.com/Mufassir-Chowdhury/BnPC/tree/main/Cross%20Validation%20Datasets): This directory contains the merged datasets used in cross dataset experiments.
 
 ## Abstract
