@@ -2,15 +2,15 @@
 
 This is the official repository of the paper titled **"[BnPC: A Gold Standard Corpus for Paraphrase Detection in Bangla, and its Evaluation](https://aclanthology.org/2024.bucc-1.8/)"**, accepted in ***The 17th Workshop on Building and Using Comparable Corpora (BUCC 2024)*** co-located with ***LREC-COLING 2024***. It contains the codes and the dataset.
 
-# Dataset Overview
+## Dataset Overview
 
-This dataset contains information three columns. Sentence1 and Sentence2 are the sentence pairs. 
+This dataset contains three columns. sentence1 and sentence2 are the sentence pairs. 
 
 label: 1 denotes paraphrase and 0 denotes non-paraphrase.
 
 ## Sample Data
 
-| Sentence1       | Sentence2 | label  |
+| sentence1       | sentence2 | label  |
 |------------|-----|----------|
 | করোনাভাইরাস থেকে মুক্তি ‘সহসাই নয়’   | দীর্ঘকাল ধরে করোনা মোকাবিলার প্রস্তুতি রাখতে হবে'  | 1      |
 | করোনাভাইরাস থেকে মুক্তি ‘সহসাই নয়’ | করোনা ভাইরাস থেকে সহসাই মুক্তি পাওয়া যাচ্ছে না  | 1       |
