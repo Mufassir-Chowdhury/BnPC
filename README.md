@@ -2,7 +2,7 @@
 
 This is the official repository of the paper titled **"[BnPC: A Gold Standard Corpus for Paraphrase Detection in Bangla, and its Evaluation](https://aclanthology.org/2024.bucc-1.8/)"**, accepted in ***The 17th Workshop on Building and Using Comparable Corpora (BUCC 2024)*** co-located with ***LREC-COLING 2024***. It contains the codes and the dataset.
 
-## Brief of the repository 
+## Repository Structure 
 The repository is divided into three directories.
 - [**BnPC Code**](https://github.com/Mufassir-Chowdhury/BnPC/tree/main/BnPC%20Code): It contains the all supplementary codes that are used in this research.
 - [**BnPC Dataset**](https://github.com/Mufassir-Chowdhury/BnPC/tree/main/BnPC%20Dataset): This directory contains the BnPC Corpus, divided into test, train, validation sets.
